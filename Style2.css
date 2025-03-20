@@ -1,0 +1,37 @@
+body {
+background-image: url("https://cdn.greatlifepublishing.net/wp-content/uploads/sites/2/2017/09/22092638/Lofthouse-Sugar-Cookies-Horizontal-2.jpg");
+background-color: #cccccc;
+
+    color: white;
+}
+.content {
+background-color: white;
+width: 35%;
+opacity: 0.7;
+color: black;
+}
+
+table {
+     
+     text-align: center;
+     padding: 10px;
+     th, table 
+}
+td, th {
+border-left: 1px yellow;
+  padding: 5px;
+border-right: 1px yellow;
+}
+
+tr:first-child th {
+border-top: 1px solid black;
+}
+
+tr:last-child td {
+border-bottom: 1px solid black;
+}
+tr:hover 
+{
+    background-color: pink;
+  color: black;
+}
